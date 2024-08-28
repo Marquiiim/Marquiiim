@@ -1,6 +1,6 @@
 ### Olá! Me chamo Marcos Gabriel, me considero um desenvolvedor iniciante!🤠
 
-#### Jovem apaixonado por tecnologia e progamação, grande curiosidade e facilidade em aprender sobre tecnologias e suas dimensões!🤖
+#### Jovem apaixonado por tecnologia e programação, grande curiosidade e facilidade em aprender sobre tecnologias e suas dimensões!🤖
 
 ```rust
 function informacoes() {
