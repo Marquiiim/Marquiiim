@@ -1,7 +1,7 @@
 ### Olá! Me chamo Marcos Gabriel, me considero um desenvolvedor iniciante!🤠
 
 ```rust
-fn main() {
+function informacoes() {
     const nome = 'Marcos Gabriel';
     let areaDeAtuacao = 'Dev. BackEnd, FrontEnd';
     let localidade = 'Fortaleza - Maracanaú-CE , Brazil';
