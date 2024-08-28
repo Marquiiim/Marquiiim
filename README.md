@@ -2,11 +2,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxrqiim/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcosindev@gmail.com)
 
-![Marquiiim GitHub stats](https://github-readme-stats.vercel.app/api?username=Marquiiim&show_icons=true&theme=radical)
+![Marquiiim GitHub stats](https://github-readme-stats.vercel.app/api?username=Marquiiim&show_icons=true&theme=radical&locale=pt-br)
 
 Linguages e Tecnologias usadas:
 
-![Marquiiim GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquiiim&theme=blue-green)
+![Marquiiim GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquiiim&theme=blue-green&locale=pt-br)
 
 <div>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
