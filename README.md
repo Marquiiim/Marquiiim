@@ -1,6 +1,6 @@
-### Olá! Me chamo Marcos Gabriel, me considero um desenvolvedor iniciante/intermediário!🤠
+### Desenvolvedor iniciante/intermediário, em busca de novos desafios e oportunidades de aprendizado na área de tecnologia e na programação.!🤠
 
-#### Jovem apaixonado por tecnologia e programação, grande curiosidade e facilidade em aprender sobre tecnologias e suas dimensões!🤖
+#### Apaixonado por tecnologia e programação, sou um jovem curioso com uma sede insaciável por aprender sobre as diversas dimensões do mundo tecnológico. Estou sempre em busca de novos desafios e inovações que me permitam expandir meus conhecimentos e habilidades.!🤖
 
 ```rust
 function informacoes() {
