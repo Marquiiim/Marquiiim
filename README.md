@@ -2,6 +2,10 @@
 
 #### Apaixonado por tecnologia e programação, sou um jovem curioso com uma sede insaciável por aprender sobre as diversas dimensões do mundo tecnológico. Estou sempre em busca de novos desafios e inovações que me permitam expandir meus conhecimentos e habilidades🤖
 
+## Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxrqiim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-05287a322/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcosindev@gmail.com)
+
 ```rust
 function informacoes() {
     const nome = 'Marcos Gabriel';
@@ -26,10 +30,6 @@ function informacoes() {
 <div>
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
-
-## Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxrqiim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-05287a322/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcosindev@gmail.com)
 
 ## Frequencia em Linguagens e Tecnologias:
 
