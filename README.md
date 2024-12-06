@@ -25,6 +25,6 @@ function informacoes() {
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-## Frequencia em Linguagens e Tecnologias:
+## Frequência em Linguagens e Tecnologias:
 
 ![Marquiiim GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marquiiim&theme=blue-green&locale=pt-br)
