@@ -14,6 +14,5 @@ function informacoes() {
 }
 ```
 ## Linguagens e Tecnologias
-<div>
-    [![My Skills](https://skillicons.dev/icons?i=js,py,css,sass,html,react,nodejs,mysql&theme=dark)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,css,sass,html,react,nodejs,mysql&theme=dark)](https://skillicons.dev)
