@@ -1,9 +1,6 @@
-### Desenvolvedor em busca de novos desafios e oportunidades de aprendizado na área de tecnologia e na programação🤠
+### Sou desenvolvedor de software com foco em Node.js, atuando na construção de APIs REST e arquiteturas baseadas em microserviços. Tenho experiência com JavaScript, NestJS, Express e MySQL, sempre priorizando código limpo, bem estruturado e de fácil manutenção.
 
-#### Apaixonado por tecnologia e programação, sou um jovem curioso com uma sede insaciável por aprender sobre as diversas dimensões do mundo tecnológico. Estou sempre em busca de novos desafios e inovações que me permitam expandir meus conhecimentos e habilidades🤖
-
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-05287a322/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcosindev@gmail.com)
+#### Tenho perfil proativo, sou organizado e estou em constante evolução, explorando novas tecnologias e boas práticas para entregar soluções cada vez mais robustas. 
 
 ```rust
 function informacoes() {
@@ -12,6 +9,5 @@ function informacoes() {
     let localidade = 'Fortaleza - Maracanaú-CE , Brazil';
 }
 ```
-## Linguagens e Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,express,nestjs,sass,react,js,mysql,github&theme=dark)](https://skillicons.dev)
