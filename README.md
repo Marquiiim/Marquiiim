@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9F7A&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Marcos+Gabriel!;Desenvolvedor+Backend+Node.js;Especialista+em+Microserviços;Apaixonado+por+Código+Limp" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9F7A&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Marcos+Gabriel!;Desenvolvedor+Backend+Node.js;Especialista+em+Microserviços;Apaixonado+por+Código+Limpo" alt="Typing SVG" />
   
 </div>
 
@@ -14,15 +14,13 @@ Sou desenvolvedor de software com foco em **Node.js**, atuando na construção d
 
 ✅ Perfil proativo, organizado e em constante evolução — explorando novas tecnologias e boas práticas para entregar soluções cada vez mais robustas.
 
-📍 **Localização:** Fortaleza - Maracanaú-CE, Brasil
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,express,nestjs,js,mysql,github,git,postman,rabbitmq,redis&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,express,nestjs,js,mysql,github,git&theme=dark)](https://skillicons.dev)
   
 </div>
 
